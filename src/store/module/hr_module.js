@@ -1,7 +1,7 @@
 import ApiServices from "@/services/api";
 
 const state = {
-  token: "",
+  // token: "",
 };
 const getters = {
   getToken: (state) => state.token,
