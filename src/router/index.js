@@ -68,7 +68,12 @@ const routes = [
       },
     ],
   },
-];
+  {
+    path: '/signup', 
+    name: 'signup',
+    component: () => import('@/views/auth/SignUp.vue'),
+  }
+]
 
 const router = createRouter({
   history: createWebHistory(process.env.BASE_URL),
