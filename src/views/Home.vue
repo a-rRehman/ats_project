@@ -1,7 +1,3 @@
 <template>
-  <HelloWorld />
+  <h1>Comming From Home (View)</h1>
 </template>
-
-<script setup>
-  import HelloWorld from '@/components/HelloWorld.vue'
-</script>
