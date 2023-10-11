@@ -5,19 +5,19 @@ export const inputLabel = {
             label: "Name",
         },
         {
-            id:1,
+            id:2,
             label: "Email",
         },
         {
-            id:1,
+            id:3,
             label: "Password",
         },
         {
-            id:1,
+            id:4,
             label: "Company Name",
         },
         {
-            id:1,
+            id:5,
             label: "Phone",
         },
     ]
